@@ -10,6 +10,7 @@ A curated list of kick-ass resources and real-life apps for Alpas Framework
 - [Videos](#videos)
 - [Books](#books)
 - [Tools](#tools)
+- [Communities](#communities)
 
 <a name="website"></a>
 ## Helpful Websites 
@@ -68,3 +69,8 @@ A curated list of kick-ass resources and real-life apps for Alpas Framework
 ## Tools
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) 
 - [Cleaver](https://getcleaver.com/) - provision servers and deployment
+
+<a name="communities"></a>
+## Communities
+- [Alpas Slack](https://join.slack.com/t/alpasdev/shared_invite/enQtODcwMjE1MzMxODQ3LTJjZWMzOWE5MzBlYzIzMWQ2MTcxN2M2YjU3MTQ5ZDE4NjBmYjY1YTljOGIwYmJmYWFlYjc4YTcwMDFmZDIzNDE) 
+- [Kotlin sub-Reddit](https://www.reddit.com/r/Kotlin/)

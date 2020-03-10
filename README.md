@@ -1,5 +1,5 @@
 # Resources
-A curated list of kick-ass resources and real-life apps for Alpas Framework
+A curated list of kick-ass resources and real-life apps for Alpas web framework
 
 - [Websites](#website)
 - [Alpas Ecosystem](#ecosystem)

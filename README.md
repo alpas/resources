@@ -30,7 +30,6 @@ A curated list of kick-ass resources and real-life apps for Alpas Framework
 - [Glaze](https://github.com/alpas/glaze) - WIP - access Alpas named routes in your JavaScript
 - [Notary](https://github.com/alpas/notary) - WIP - social authentication provider
 - [Pantry](https://github.com/alpas/pantry) - WIP - file storage
-- [PingCRM](https://github.com/alpas/pingcrm) PingCRM demo
 - [Starter Template](https://github.com/alpas/starter) - get your projects off to a head start
 
 <a name="guides"></a>

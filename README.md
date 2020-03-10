@@ -7,6 +7,7 @@ A curated list of kick-ass resources and real-life apps for Alpas Framework
 - [Out-of-the-box Libraries](#otblibs)
 - [Helpful Libraries](#libs)
 - [Real Websites and Apps using Alpas](#realworld)
+- [Community Sample Projects](#sample-projects)
 - [Videos](#videos)
 - [Books](#books)
 - [Tools](#tools)
@@ -51,6 +52,10 @@ A curated list of kick-ass resources and real-life apps for Alpas Framework
 - [AlpasCasts](https://alpascasts.com)
 - [Lucca Wellness](https://luccawellness.com)
 - [That App Show](https://thatappshow.com)
+
+<a name="sample-projects"></a>
+## Community Sample Projects
+- [Short URLs Service](https://github.com/egorsmkv/short-urls-service)
 
 <a name="videos"></a>
 ## Videos

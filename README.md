@@ -55,6 +55,7 @@ A curated list of kick-ass resources and real-life apps for Alpas web framework
 
 <a name="sample-projects"></a>
 ## Community Sample Projects
+- [Blogify](https://github.com/armgitaar/blogify)
 - [Short URLs Service](https://github.com/egorsmkv/short-urls-service)
 
 <a name="videos"></a>

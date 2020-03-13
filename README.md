@@ -38,6 +38,7 @@ A curated list of kick-ass resources and real-life apps for Alpas web framework
 ## Guides and Tutorials 
 - [Quick Start - ToDo App](https://alpas.dev/docs/quick-start-guide-todo-list)
 - [Fireplace Tutorial](https://fireplace.alpas.dev/)
+- [Create a fully functional blog](https://dev.to/armiedema/how-to-create-a-fully-functional-blog-with-alpas-kotlin-and-tailwind-part-1-setup-project-112g)
 
 <a name="otblibs"></a>
 ## Out-of-the-box Libraries

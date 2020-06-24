@@ -51,6 +51,7 @@ A curated list of kick-ass resources and real-life apps for Alpas web framework
 <a name="realworld"></a>
 ## Real Websites and Apps using Alpas
 - [AlpasCasts](https://alpascasts.com)
+- [Cleaver](https://cleaver.cloud/)
 - [Lucca Wellness](https://luccawellness.com)
 - [That App Show](https://thatappshow.com)
 
@@ -77,7 +78,7 @@ A curated list of kick-ass resources and real-life apps for Alpas web framework
 <a name="tools"></a>
 ## Tools
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) 
-- [Cleaver](https://getcleaver.com/) - provision servers and deployment
+- [Cleaver](https://cleaver.cloud/) - provision servers and deploy Alpas apps
 
 <a name="communities"></a>
 ## Communities
